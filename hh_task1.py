@@ -1,6 +1,6 @@
 import itertools
 
-#convert tuple at string
+#convert tuple to string
 def convertTuple(tup): 
     str =  ''.join(tup) 
     return str
